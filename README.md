@@ -68,4 +68,4 @@ Es la parte o rama del desarrollo web encargada de que toda la lógica de una p�
 
 API es el acrónimo de Application Programming Interface, que es un intermediario de software que permite que dos aplicaciones hablen entre sí. Cuando utiliza una aplicación en su teléfono móvil, la aplicación se conecta a Internet y envía datos a un servidor. A continuación, el servidor recupera esos datos, los interpreta, realiza las acciones necesarias y los devuelve a su teléfono. A continuación, la aplicación interpreta esos datos y le presenta la información que desea de una manera legible. Esto es lo que es una API: todo esto sucede a través de la API.
 
-![IMG 6](https://www.academiaweb.ca/wp-content/uploads/2020/07/api-visual.png)
+![IMG 7](https://www.academiaweb.ca/wp-content/uploads/2020/07/api-visual.png)
