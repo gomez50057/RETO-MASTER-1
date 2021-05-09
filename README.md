@@ -1,4 +1,4 @@
-# RETO MASTER n°1
+# RETO MASTER N°1
 
 ## Repositorio de Estudio 💻
 
