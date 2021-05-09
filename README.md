@@ -62,7 +62,7 @@ Es la parte de una aplicación que interactúa con los usuarios, es conocida com
 
 Es la parte o rama del desarrollo web encargada de que toda la lógica de una página funcione. Consiste en el conjunto de acciones que pasan dentro de una web, pero que no podemos ver. Un ejemplo de esto es la comunicación con el servidor.
 
-![IMG 6](https://edteam-media.s3.amazonaws.com/community/original/a66f8dcb-a32c-4a67-8409-59b3ab44ef31.jpg)
+![IMG 6](https://edteam-media.s3.amazonaws.com/blogs/original/7ef9be53-4334-48de-a6d6-143c692884ea.jpg)
 
 ## **API**
 
