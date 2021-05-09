@@ -25,12 +25,12 @@ El software está alojado en servidores de los proveedores y el cliente accede a
 - **Platform as a Service (PaaS):**
 En este tipo de servicios en la nube el proveedor ofrece acceso a un entorno basado en cloud en el cual los usuarios pueden crear y distribuir sus propias aplicaciones.
 
-![IMG 3](https://bestarion.com/wp-content/uploads/2020/10/Platform-as-a-Service.png)
+![IMG 3](/fotos/pass-geekflare.webp)
 
 - **Infrastructure as a Service (IaaS):**
 Un proveedor de servicios proporciona el software y las aplicaciones a través de Internet. Los usuarios se suscriben al software y acceden a él a través de la web o las APIs del proveedor.
 
-![IMG 4](https://geekflare.com/wp-content/uploads/2020/04/iaas-geekflare.png)
+![IMG 4](/fotos/IaaS.png)
 
 ## **Modelo OSI**
 
