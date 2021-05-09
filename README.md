@@ -10,9 +10,14 @@ El almacenamiento en la nube, del inglés cloud storage, es un modelo de almacen
 
 ## **Tipos de nube**
 
- **Pública** | **Privada** | **Híbrida** | 
---------|---------|---------|------------
-Ofrece sus servicios a cualquier usuario de internet.  | Ofrecen sus servicios a un número limitado de usuarios a través de una red de una empresa.  | Este tipo de nube es fruto de una combinación de las dos anteriores. En esta se almacenan datos en nubes públicas o privadas en función de las necesidades. | 
+ - **Pública:**
+ Ofrece sus servicios a cualquier usuario de internet.
+
+ - **Privada:**
+ Ofrecen sus servicios a un número limitado de usuarios a través de una red de una empresa.
+ - **Híbrida:** 
+ Este tipo de nube es fruto de una combinación de las dos anteriores. En esta se almacenan datos en nubes públicas o privadas en función de las necesidades.
+
 
 
 ## **Tipos de servicios en la nube**
@@ -38,4 +43,4 @@ El *modelo de interconexión de sistemas abiertos* (OSI, por sus siglas en ingl�
 
 El modelo OSI puede entenderse como un lenguaje universal de comunicación entre ordenadores en red o entre redes o sistemas de computación. Se basa en la idea de dividir un sistema de comunicación en siete niveles o capas abstractos, cada uno de ellos apilado sobre el precedente.
 
-![Marcador 10](/fotos/capas-del-modelo-osi.png)
+![IMG 5](https://cdn.tool.dute.me/assets/images/blog/2021/01/05/OSI-Model-Diagram.png)
