@@ -2,7 +2,7 @@
 
 ## Repositorio de Estudio 💻
 
-## **¿Qué es la nube?**
+## **¿Qué es la NUBE?**
 
 El almacenamiento en la nube, del inglés cloud storage, es un modelo de almacenamiento de datos basado en redes de computadoras, ideado en los años 1960, ​ donde los datos están alojados en espacios de almacenamiento virtualizados, por lo general aportados por terceros
 
